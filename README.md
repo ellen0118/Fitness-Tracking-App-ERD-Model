@@ -1,2 +1,2 @@
-# Fitness-Tracking-App-ERD-Model
-An ER diagram that showcase how the entities in a fitness tracking app links together.
+# Fitness-Tracking-App-ER-Diagram
+This ER diagram shows what type of information is required to be on the fitness tracking app and the relationship between each entities using Crow's Foot Notation.
